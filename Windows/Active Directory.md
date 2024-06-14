@@ -1,0 +1,1 @@
+Es un repositorio donde están las componentes comunes de una red de Windows

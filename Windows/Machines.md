@@ -1,0 +1,1 @@
+Es uno de los [[Security Principals]]. Cada vez que un pc nuevo se conecte al [[Active Directory]] se creará un objeto. También se le asignará una cuenta como si fuera un usuario. 
